@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 519a7bd3-1640-4b51-9d4a-7c8eea5f0796)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Use the M.2 Connector version\n\n" (at 72.898 55.372 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6845701b-896c-4c92-ac08-fd9fb8f792ab)
+  )
+)
