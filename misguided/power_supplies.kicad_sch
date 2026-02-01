@@ -15,7 +15,7 @@
       (property "Footprint" "QFN-12_MP8756_MNP" (at 0 -26.035 0)
         (effects (font (size 1.27 1.27) italic) hide)
       )
-      (property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP8756GD-Z" (at 0 -22.225 0)
+      (property "Datasheet" "${KIPRJMOD}/datasheets/MP8756.pdf" (at 0 -22.225 0)
         (effects (font (size 1.27 1.27) italic) hide)
       )
       (property "ki_keywords" "MP8756GD-Z" (at 0 0 0)
@@ -85,7 +85,7 @@
   (symbol (lib_id "misguided:MP8756GD-Z") (at 126.365 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f7b0b655-54ce-4936-aebb-94131950a0c0)
-    (property "Reference" "U201" (at 126.365 76.2 0)
+    (property "Reference" "U?" (at 126.365 76.2 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MP8756GD-Z" (at 126.365 78.74 0)
@@ -94,7 +94,7 @@
     (property "Footprint" "QFN-12_MP8756_MNP" (at 126.365 106.045 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP8756GD-Z" (at 126.365 102.235 0)
+    (property "Datasheet" "${KIPRJMOD}/datasheets/MP8756.pdf" (at 126.365 102.235 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (pin "1" (uuid 740254ca-2e96-46be-b594-0657868e8c29))
@@ -112,7 +112,7 @@
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/5c0ad2ae-bc5b-4352-8d7b-34fb763e9c13"
-          (reference "U201") (unit 1)
+          (reference "U?") (unit 1)
         )
       )
     )
