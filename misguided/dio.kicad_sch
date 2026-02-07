@@ -456,7 +456,7 @@
   (symbol (lib_id "power:+3.3V") (at 87.63 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 247d5ef4-2348-4b09-9096-57989112643f)
-    (property "Reference" "#PWR0403" (at 87.63 66.04 0)
+    (property "Reference" "#PWR0401" (at 87.63 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 87.63 58.42 0)
@@ -472,7 +472,7 @@
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/6cc4a32d-403e-4907-919c-d415739d9e80"
-          (reference "#PWR0403") (unit 1)
+          (reference "#PWR0401") (unit 1)
         )
       )
     )
@@ -533,7 +533,7 @@
   (symbol (lib_id "power:GND") (at 85.725 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f6cc1b5-8442-4546-8e17-aeafbe198441)
-    (property "Reference" "#PWR0402" (at 85.725 121.92 0)
+    (property "Reference" "#PWR0403" (at 85.725 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 85.725 120.65 0)
@@ -549,7 +549,7 @@
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/6cc4a32d-403e-4907-919c-d415739d9e80"
-          (reference "#PWR0402") (unit 1)
+          (reference "#PWR0403") (unit 1)
         )
       )
     )
@@ -558,7 +558,7 @@
   (symbol (lib_id "misguided:LTV-217-TP1-C-G") (at 103.505 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aba7a7ed-d570-4172-807e-901b31459f72)
-    (property "Reference" "CR?" (at 103.505 104.14 0)
+    (property "Reference" "CR402" (at 103.505 104.14 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "LTV-217-TP1-C-G" (at 103.505 106.68 0)
@@ -577,7 +577,7 @@
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/6cc4a32d-403e-4907-919c-d415739d9e80"
-          (reference "CR?") (unit 1)
+          (reference "CR402") (unit 1)
         )
       )
     )
@@ -586,7 +586,7 @@
   (symbol (lib_id "power:GND") (at 87.63 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c28b56f8-db26-481d-af15-b660b937e9c2)
-    (property "Reference" "#PWR0401" (at 87.63 85.09 0)
+    (property "Reference" "#PWR0402" (at 87.63 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 87.63 83.82 0)
@@ -602,7 +602,7 @@
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/6cc4a32d-403e-4907-919c-d415739d9e80"
-          (reference "#PWR0401") (unit 1)
+          (reference "#PWR0402") (unit 1)
         )
       )
     )
@@ -611,7 +611,7 @@
   (symbol (lib_id "misguided:LTV-217-TP1-C-G") (at 105.41 74.93 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec198a4e-5ccb-4779-b540-071d9e8d4228)
-    (property "Reference" "CR?" (at 105.41 67.31 0)
+    (property "Reference" "CR401" (at 105.41 67.31 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "LTV-217-TP1-C-G" (at 105.41 69.85 0)
@@ -630,7 +630,7 @@
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/6cc4a32d-403e-4907-919c-d415739d9e80"
-          (reference "CR?") (unit 1)
+          (reference "CR401") (unit 1)
         )
       )
     )
