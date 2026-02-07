@@ -1032,8 +1032,8 @@
     )
     (pin "1" (uuid bfdf989c-6daf-48bd-99d8-ef6f097cc402))
     (pin "2" (uuid c8737c34-d9d9-408b-af37-772187121e66))
-    (pin "4" (uuid f0bdfaba-fca2-4883-b076-23cab754b611))
-    (pin "4" (uuid f0bdfaba-fca2-4883-b076-23cab754b611))
+    (pin "4" (uuid f0bdfaba-fca2-4883-b076-23cab754b612))
+    (pin "4" (uuid f0bdfaba-fca2-4883-b076-23cab754b612))
     (instances
       (project "misguided"
         (path "/2c6152e0-1c3c-4f15-8d1e-fd42bd51bc79/04af09eb-0909-4fdb-92dc-fac41cc5aeb5"
